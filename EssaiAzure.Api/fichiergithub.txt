@@ -1,2 +1,3 @@
 MONMON
 LOLO
+magic
